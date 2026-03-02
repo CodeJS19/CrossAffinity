@@ -3,7 +3,7 @@
 CrossAffinity is a protein-protein binding affinity prediction model which separates the protein complex into two parts. The input to the model are the sequences belonging to both parts of the protein complex.
 
 ---
-<img width="1155" height="434" alt="Architecture" src="https://github.com/user-attachments/assets/2d5596c0-66f3-419c-81b8-4519ef7da69d" />
+<img width="1155" height="434" alt="Architecture" src="./Architecture/Architecture.png" />
 
 ## Table of Contents
 
